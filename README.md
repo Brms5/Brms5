@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Bruno Santos.
+## I am Bruno Moreira Santos.
 
 - 🔭 I’m currently working on Java | Spring
 - 🌱 I’m currently learning Java
@@ -26,22 +26,15 @@
         <img alt="Bruno-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       </td>
       <td width="550" height="60">
-      <div>
-    <img alt="Bruno-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img alt="Bruno-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img alt="Bruno-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img alt="Bruno-Dotnet" height="30" width="40"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img alt="Bruno-Spring" height="30" width="40"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  </div>
-  </td>
+        <img alt="Bruno-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+        <img alt="Bruno-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+        <img alt="Bruno-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+        <img alt="Bruno-Dotnet" height="30" width="40"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+        <img alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+        <img alt="Bruno-Spring" height="30" width="40"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+      </td>
     </tr>
-  </table>
-  
-  <h3 >
-    
-  </h3>
-  
+  </table>  
 </div>
  
 ---
