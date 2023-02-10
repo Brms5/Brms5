@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I am Bruno Moreira Santos.
 
-- 🔭 I’m currently working on Java | Spring
+- 🔭 I’m currently working on C# | .NET + TypeScript | React
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me: moreirasbr@gmail.com
 - 😄 Pronouns: he/him/his
