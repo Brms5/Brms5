@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I am Bruno Moreira Santos.
 
-- 🔭 I’m currently working on Java | Spring
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on Java | Angular
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: moreirasbr@gmail.com
 - 😄 Pronouns: he/him/his
 
