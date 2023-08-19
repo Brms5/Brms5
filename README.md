@@ -2,7 +2,7 @@
 ## I am Bruno Moreira Santos.
 
 - 🔭 I’m currently working on Java | Angular
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++ | Python | Next.js
 - 📫 How to reach me: moreirasbr@gmail.com
 - 😄 Pronouns: he/him/his
 
