@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Java | Angular
 - 🌱 I’m currently learning C++ | Python | Next.js
-- 📫 How to reach me: moreirasbr@gmail.com
+- 📫 How to reach me: moreirasbr@outlook.com
 - 😄 Pronouns: he/him/his
 
 ---
