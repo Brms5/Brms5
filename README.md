@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I am Bruno Moreira Santos.
 
-- 🔭 I’m currently working on Java | Angular
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Java | Spring
+- 🌱 I’m currently learning Design System
 - 📫 How to reach me: moreirasbr@outlook.com
 - 😄 Pronouns: he/him/his
 
