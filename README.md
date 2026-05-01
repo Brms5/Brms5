@@ -2,41 +2,9 @@
 ## I am Bruno Moreira Santos.
 
 - 🔭 I’m currently working on Clojure | Diplomat | Datomic | BDC(frontend)
-- 🌱 I’m currently studying some books for software engineering career (follow my project)
+- 🌱 I’m currently studying some books related to software engineering career (follow my project)
 - 📫 How to reach me: moreirasbr@outlook.com
 - 😄 Pronouns: he/him/his
-
----
-
-<div>
-  <div>
-  <h2>
-    Skills  
-  </h2>
-  <table border="0">
-    <tr>
-      <td width="500"><b style="font-size:30px">🔤 Front-end</b></td>
-      <td width="500"><b style="font-size:30px">🖥️ Back-end</b></td>
-    </tr>
-    <tr>
-      <td width="550" height="60">
-        <img alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-        <img alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-        <img alt="Bruno-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-        <img alt="Bruno-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
-      </td>
-      <td width="550" height="60">
-        <img alt="Bruno-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-        <img alt="Bruno-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-        <img alt="Bruno-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-        <img alt="Bruno-Dotnet" height="30" width="40"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-        <img alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-        <img alt="Bruno-Spring" height="30" width="40"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-      </td>
-    </tr>
-  </table>  
-</div>
  
 ---
 
