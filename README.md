@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I am Bruno Moreira Santos.
 
-- 🔭 I’m currently working on Java | Spring
-- 🌱 I’m currently learning Design System
+- 🔭 I’m currently working on Clojure | Diplomat | Datomic | BDC(frontend)
+- 🌱 I’m currently studying some books for software engineering career (follow my project)
 - 📫 How to reach me: moreirasbr@outlook.com
 - 😄 Pronouns: he/him/his
 
