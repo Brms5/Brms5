@@ -2,7 +2,7 @@
 ## I am Bruno Moreira Santos.
 
 - 💻 I’m currently working on Clojure | Diplomat | Datomic | BDC(frontend)
-- 📚 I am conducting study sessions on software engineering with AI 🤖 - follow [brms-swe-studies](https://github.com/Brms5/brms-swe-studies)
+- 📚 I am conducting study sessions on software engineering with AI 🤖 - follow [brms-ai-study-session](https://github.com/Brms5/brms-ai-study-session)
 - 📧 How to reach me: moreirasbr@outlook.com
  
 ---
